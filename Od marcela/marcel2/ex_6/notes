@@ -1,0 +1,11 @@
+1) UNIPROT_ID -> KEGG_ID              DONE
+2) BASED ON KEGG_ID -> GET NTSEQ      
+3) 
+
+
+
+     >QWERTY
+     asdjjasfdasf
+s =  asdafasdfdf       => len("".join( s.split("\n")[1:] ))
+     asfsasasd
+     asdasdasda

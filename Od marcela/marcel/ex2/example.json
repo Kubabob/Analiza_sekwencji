@@ -1,0 +1,19 @@
+{
+    "course": "bioinformatic",
+    "year": "2023",
+    "tutor": {
+        "name": "marcel",
+        "email": "marcel.thiel@ug.edu.pl",
+        "experience": 60
+    },
+    "students": [
+        {
+            "name": "grzegorz",
+            "age": 22
+        }, 
+        {
+            "name": "alicja",
+            "age": 21
+        }
+    ]
+}

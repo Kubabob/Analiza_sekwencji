@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://rest.uniprot.org/uniprotkb/accessions?accessions=P02144%2CP04247%2CP68871%2CP69891%2CP69892%2CP69905&download=true&format=fasta

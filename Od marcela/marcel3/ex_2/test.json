@@ -1,0 +1,18 @@
+{
+    "course": "bioinformatics",
+    "teacher": "marcel",
+    "students": [
+        {
+            "name": "waldek",
+            "grade": 5
+        },
+        {
+            "name": "zosia",
+            "grade": 2
+        },
+        {
+            "name": "natalia",
+            "grade": 6
+        }
+    ]
+}
